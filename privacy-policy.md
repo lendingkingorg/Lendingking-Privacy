@@ -1,27 +1,20 @@
 We, at Sumami Technologies private limited (“Lendingking Brand of " Sumami Technologies private limited"” or “We”) understand Privacy and its value. Therefore, it is all the more important for us to make YOU (“You” or “Customer” or “User”), the User of the website www.Lendingking.in and mobile android application  Brand of"Sumami Technologies private limited".in (the “Website”) and its associated mobile applications, Lendingking Brand of"Sumami Technologies private limited" (“Application”) (collectively, the “Platform”) understand the reason behind collection of your information and its usage and the manner in which we collect, use, store and share information about you (“Privacy Policy”). This Privacy Policy has been prepared in compliance with:
 
-
-Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011;
-
-
-
+Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011
 
 Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021
 
-
-
-
 Guidelines on Digital Lending issued by the Reserve Bank of India (RBI), 2022;
 
-
-
-
 Other applicable acts, regulations and rules which requires the publishing of a privacy policy for handling of or dealing in personal information including sensitive personal data or information and all applicable laws, regulations, guidelines provided by applicable regulatory authorities including but not limited to the RBI.
-
 
 This Privacy Policy is incorporated into and at all times is subject to and is to be read in conjunction with the Terms of Use of the Platform.
 CONSENT
 You hereby expressly consent to provide the information that may be required in relation to the Services (as defined below) being rendered on the Platform by us. You acknowledge that we shall collect the information detailed under this Privacy Policy to facilitate lending & non-lending services by partnering with various financial lenders, third parties, service providers, etc based on your requirement to avail such Services (“Services”).
+
+The Company shall tie up with authorized RBI lenders to ensure you get the best financing options. We have currently ties up with the following financing partners (i.e. Lenders) –
+Lendingkart Finance Limited , Mirae asset financial services , Arthmate Financing India Private Limited.
+
 Lendingking Brand of"Sumami Technologies private limited" will only be using the information for providing the Services to you.
 In order to avail any Services being provided by Lendingking Brand of"Sumami Technologies private limited" by itself or in partnership with the lenders or other third parties it is important that YOU READ, UNDERSTAND, ACKNOWLEDGE AND UNCONDITIONALLY AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY.
 IF YOU DO NOT AGREE TO THIS POLICY OR ANY PART THEREOF, PLEASE DO NOT USE/ ACCESS/ DOWNLOAD/ INSTALL THE PLATFORM OR ANY PART THEREOF.
@@ -29,15 +22,9 @@ For the users consenting to continue accessing the Platform and avail the Servic
 COLLECTION OF INFORMATION
 The collection of information under this Privacy Policy are conducted for the following categories of services:
 
-
 (i) Part A: Information for Digital Lending Services: Information collected by Platform for facilitation of Loans being disbursed by the financial lending partners whose details are available on the Website and the Application and who are registered with the Reserve Bank of India (“Lending Partners”).
 
-
-
-
 (ii) Part B: Information for Non-Lending Services: Information collected by Platform while registering a User on the Platform or while providing Value Added Services (i.e. all services other than facilitation of loans).
-
-
 
 
 A. Information we collect about you
@@ -57,12 +44,9 @@ How we use this information: We may collect and store email id, name and address
 
 
 
-
 SMS Information: Lendingking Brand of"Sumami Technologies private limited" collects, stores and monitors SMS information from your device. However, we do not store or monitor your Personal SMS information.
 
 How we use this information: We use this data to provide you with updates or confirmation of any actions taken in our Platform during the term of Services. We shall collect any SMS information for facilitating you any lending services and non-lending service including such purposes as may be required by the Lending Partners or as per applicable law. This category of information is only collected for providing the non-lending services or our value-added services
-
-
 
 
 Device Information and Installed Apps data: We additionally collect certain device information provided herein for our lending and non-lending services. Information which the Application collects, and its usage, depends on how you manage your privacy controls on your device.
@@ -74,52 +58,32 @@ How we use the information: We collect information about your device to provide 
 How we use this information: We use this information for your onboarding and Know Your Customer (KYC) purpose with your explicit consent.
 
 
-
-
 Location, Camera, Microphone Access: We will collect your device location and request camera and microphone access for facilitating lending services as well as providing any non-lending services only in accordance with applicable laws.
 How we use this information: We shall collect your device location information for verifying your address, for the KYC and onboarding process for the Services. We may request camera access to scan and capture the required KYC documents as per the instructions of our Lending Partners in accordance with applicable laws. We shall transfer such information to our Lending Partners and shall not store any such data. We require microphone permissions to enable a two-way communication between our authorised agents and you for the purpose of performing and completing your Video KYC for the Lending Services. Your audio shall be recorded for regulatory purpose.
-
-
 
 
 B. Information about you we collect from third parties
 
 
-
-
 For making the Services available to you, we may collect credit information by obtaining specific authorisations from you (if required under applicable laws), from certain third parties such as credit bureaus or credit rating companies as your ‘authorised representative’ from time to time in accordance with applicable laws during the loan journey as may be requested by our Lending Partners.
-
-
 
 
 In order to facilitate credit products to you, we may receive certain information pertaining to document verification, repayment status etc from certain third parties including NSDL, payment gateway providers.
 
 
-
-
 We may further collect your GST details from Official GSTIN API stack or other relevant websites using the GST Network user id and password details or OTP as provided by you.
-
-
 
 
 We may further collect your bank account numbers or UPI payment information on behalf of our lending partners to facilitate collection and repayment of loan payments.
 
-
-
-
-We shall only collect this information on a need basis strictly for the purpose of providing you with the Services. The information collected from such third parties are not retained by us. We collect this information as part of our outsourcing obligations to our Lending Partners and is directly transferred to the Lending Partners upon collection.
-
+We shall only collect this information on a need basis strictly for the purpose of providing you with the Services. The information collected from such third parties are not retained by us. We collect this information as part of our outsourcing obligations to our Lending Partners and is directly transferred to the Lending Partners upon collection
 
 
 
 C. Information you give us about you
 
 
-
-
 In due course of using our Services, you are required to submit data to enable our Services. We use this data to create your profile and provide you with the best available services. Mentioned below is some of the data we collect from you:
-
-
 
 
 i. Data provided by you by filling in forms in the Application or on the Website.
@@ -131,20 +95,14 @@ vi. Data generated by your usage of our Platform.
 vii. Contact details (i.e. the phone number)of the third party individuals (including your relatives and friends) that are voluntarily added by you at the time of loan application.
 
 
-
-
 This data helps us create your profiles, complete mandatory KYC as per the requirements of our Lending Partners who offer you the Services, unlock and approve loans and provide you with customized support in case of issues. Please note that we do not store any data provided by you except for the basic information such as name, address, your contact details etc.
-
-
 
 
 Wherever possible, we indicate the mandatory and the optional fields. You always have the option to not provide any information by choosing not to use a particular service or feature on the Platform. While you can browse some sections of our Platform without being a registered member as mentioned above, certain activities (such as availing of loans from the third-party lenders on the Platform) require registration and for you to provide the above details.
 
 
 
-
 We under no circumstances and at no point take any biometric data from you for any of our services or operations. In case, if any of our representatives ask for the same from you, we request you to kindly refrain from doing the same and address this concern to our Grievance Officer (the details of the same have been provided below).
-
 
 
 
@@ -325,10 +283,14 @@ We shall additionally seek express consent through a separate consent for at app
 Usage of your information by such third parties is subject to their privacy policies. We share limited information with them, strictly to the extent required. We recommend you to have a look at the privacy policies of such third parties.
 
 
-List of entities with whom your information is shared can be assessed at https://www.Lendingking Brand of"Sumami Technologies private limited".in/our-lending-partners
+List of entities with whom your information is shared can be assessed at https://www.Lendingking Brand of"Sumami Technologies private limited".in/our-lending-partners - Lendingkart finance limited , Mirae asset financial services
+
 DATA RETENTION AND DELETION
 We at Lendingking Brand of"Sumami Technologies private limited" promise to protect your personal data from unauthorized access, misuse, and disclosure using the right security measures based on the type of data and how we are processing the same. We retain information about you to provide a seamless experience, to contact you in case of support required and about your account, to detect, mitigate, prevent, and investigate fraudulent or illegal activities during the course of the Services. We retain your data for as long as necessary to provide you with our services. We may also retain and use your basic personal information inter alia as name, contact number, transactional details and address details as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements which shall always be in accordance with applicable laws. Subject to this section, we may delete your data upon reasonable written request for the same at any stage. However, you may not be able to use our services after deletion.
+
+
 LINK TO THIRD-PARTY SDK AND OTHER SITES
+
 The App has a link to registered third party SDKs, Application Programming Interface (API) integrations, redirections which collects data on our behalf and data is stored to a secured server. We ensure that our third-party service provider takes extensive security measures in order to protect your personal information against loss, misuse or alteration of the data as required under the applicable laws.
 Our third-party service provider employs separation of environments and segregation of duties and have strict role-based access control on a documented, authorized, need-to-use basis. The stored data is protected and stored by application-level encryption. They enforce key management services to limit access to data.
 Furthermore, our registered third-party service provider provides hosting security – they use industry-leading anti-virus, anti-malware, intrusion prevention systems, intrusion detection systems, file integrity monitoring, and application control solutions.
@@ -343,25 +305,13 @@ We blend security at multiple steps within our products with the state-of-the-ar
 In addition, the Website and App have been certified for the following security certifications:
 
 
-ISO 9001: being the international standard that details requirements for a quality management system (QMS). Organizations use the standard to demonstrate the ability to consistently provide products and services that meet customer and regulatory requirements with the requisite security protections.
-
-
-
-
-ISO 27001 (formally known as ISO/IEC 27001:2005): is a specification for an information security management system (ISMS) and is the suggested level of certification required under the Information Technology Act, 2000. An ISMS is a framework of policies and procedures that includes all legal, physical and technical controls involved in an organization’s information risk management processes.
-
-
 We aim to protect from unauthorized access, alteration, disclosure or destruction of information we hold, including:
 
 
 We use encryption to keep your data private while in transit;
 
 
-
-
 We offer security feature like an OTP verification to help you protect your account;
-
-
 
 
 We review our information collection, storage, and processing practices, including physical security measures, to prevent unauthorized access to our systems;
@@ -387,10 +337,7 @@ We regularly review this Privacy Policy and make sure that we process your infor
 Data transfers;
 
 
-
-
 We ensure that Aadhaar number is not disclosed in any manner.
-
 
 Data protection laws vary among countries, with some providing more protection than others. We also comply with certain legal frameworks relating to the transfer of data as mentioned and required under the Information Technology Act, 2000, rules and the amendments made thereunder.
 When we receive formal written complaints, we respond by contacting the person who made the complaint. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of your data that we cannot resolve with you directly.
@@ -402,12 +349,7 @@ Your Privacy Controls: You have certain choices regarding the information we col
 Your device may have controls that determine what information we collect. For example, you can modify permissions on your Android/iOS device or Browser to remove any permissions that may have been given. However, Platform does not provide a guarantee of Services if any such controls are exercised.
 
 
-
-
 Delete the App from your device
-
-
-
 
 You can also request to remove content from our servers in accordance with Clause C.
 
@@ -416,8 +358,6 @@ Withdrawal/Denial of consent: You acknowledge that the Platform has duly collect
 
 
 Deny Consent: You shall have the right to deny consent for use of specific data, restrict disclosure to third parties, data retention, revoke consent already granted to collect personal data and if required, make the App delete/ forget the data. However, any such denial will not prejudice the right of the Lending Partners to retain any data in relation to the loans availed by you or by the non-lending service providers in relation to the non-lending services provided to you. Further, in case of a denial of a consent, the Platform does not provide a guarantee or will not be liable towards the continued facilitation of the Services if any such controls are exercised.
-
-
 
 
 Withdraw Consent: You may withdraw Your consent to contact You, for the continued collection, use or disclosure of Your information, at any time, or request for deletion of your Login account by raising a request on the Platform or by mailing Us at help@Lendingking Brand of"Sumami Technologies private limited".in. However, Platform does not provide a guarantee of Services if any such controls are exercised. Further, if You have availed any loan facilities from Our lending partner, the lending partner shall have the right to continue processing Your information till such credit facility has been repaid in full, along with any interest and dues payable and/or for such period as may be allowed under applicable law. However, We, shall not retain Your data and information if it is no longer required by Us and there is no legal requirement to retain the same. Do note that multiple legal bases may exist in parallel, and We may still have to retain certain data and information at any time. Also, the information may still be used for execution of any outstanding or termination activity of any Lending or Non-lending Services.
@@ -430,10 +370,23 @@ Notwithstanding anything to the contrary stated above, the following are specifi
 Marketing and Communication: The consent for this information be withdrawn if You write an email to the email address provided under clause VIII.
 
 
-
-
 Information/data deletion may not be implemented for ongoing Services including loan, insurance policy or digital gold products.
 
+Loan tenure and APR- 
+
+Minimum 6 months and the maximum period for repayment is up to 60 months based on type of loans.
+Minimum 10.50% upto 26% Maximum Annual Percentage Rate (APR)
+
+
+Representative  Loan sample calculator -
+
+Loan Amount - 1,00,000 rs
+Rate of Interest- 20%
+Tenure - 6months
+Total EMI -17,652 per month
+Total Amount Payable - 1,05,914rs
+Total Interest - 5914rs
+Proceesing fee - 2% of the loan amount
 
 
 
