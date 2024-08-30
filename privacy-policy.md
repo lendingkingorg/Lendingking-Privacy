@@ -386,7 +386,7 @@ Tenure - 6months
 Total EMI -17,652 per month
 Total Amount Payable - 1,05,914rs
 Total Interest - 5914rs
-Proceesing fee - 2% of the loan amount
+Proceesing fee - 2-5% of the loan amount
 
 
 
